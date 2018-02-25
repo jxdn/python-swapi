@@ -8,3 +8,9 @@
 
 ### CARA PENGGUNAAN
 * Jalankan saja [getPeople.py](https://github.com/jxdn/python-swapi/blob/master/generate.py) 
+
+## Keterangan :
+Format nama file ex: planets#1#_female_1
+* planets#1# : menunjukan homeworld (berasal dari https://https://swapi.co/api/planets/1, penamaan file tidak dapat menggunakan '/') 
+* female   : jenis kelamin
+* 1   : jumlah file (karena maksimal 1 homeworld 1 gender hanya 15 anggota )
