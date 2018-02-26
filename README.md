@@ -7,6 +7,7 @@
 
 
 ### CARA PENGGUNAAN
+* buat folder output jika tidak ada
 * Jalankan saja [getPeople.py](https://github.com/jxdn/python-swapi/blob/master/generate.py) 
 
 ## Keterangan :
